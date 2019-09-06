@@ -1,0 +1,16 @@
+>>> spacious_string = "\n\t Some Non-Spacious Text\n \t\r"
+>>> spacious_string
+'\n\t Some Non-Spacious Text\n \t\r'
+>>> print(spacious_string)
+
+	 Some Non-Spacious Text
+ 	
+>>> print(spacious_string.lstrip())
+Some Non-Spacious Text
+ 	
+>>> print(spacious_string.rstrip())
+
+	 Some Non-Spacious Text
+>>> print(spacious_string.strip())
+Some Non-Spacious Text
+
