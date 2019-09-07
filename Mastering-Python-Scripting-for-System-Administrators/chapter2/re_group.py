@@ -10,5 +10,16 @@ re_obj = re.compile(r"""(A\W+\b(big|small)\b\W+\b
 ### simpler regular expressions, so it is a great tool for improving the maintenance of code
 ### that includes regular expressions
                     re.VERBOSE)
-print(re_obj.findall('A big brown dog ran down the street. \
-                    A small purple cow jumped to the moon.'))
+# print(re_obj.findall('A big brown dog ran down the street. \
+#                     A small purple cow jumped to the moon.'))
+
+re_iter = re_obj.finditer('A big brown dog ran down the street. \
+                    A small purple cow jumped to the moon.')
+for item in re_iter:
+    # print(item)
+    print(item.groups())
+
+#
+# to use finditer() rather than findall() is that each item of
+# finditer() is a match object rather than just a simple list of strings or list of tuples
+# corresponding to the text that matched.

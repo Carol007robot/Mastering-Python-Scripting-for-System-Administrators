@@ -20,3 +20,18 @@ if __name__=="__main__":
     lines, match_count = run_re()
     print('LINES::', lines)
     print('MATCHES::', match_count)
+
+
+# Match() and search() provide similar functionality to one another. Both apply a regular
+# expression to a string; both specify where in the string to start and end looking for the
+# pattern; and both return a match object for the first match of the specified pattern. The
+# difference between them is that match() starts trying to match at the beginning of the
+# string at the place within the string where you specified it should start looking and does
+# not move to random places within the string, but search(), however, will try to match
+# the pattern anywhere in the string or from the place within the string that you tell it to
+# start, ending at the place within the string where you told it to finish.
+
+re_obj = re.compile('FOO')
+search_string = ' FOO'
+print(re_obj.search(search_string))
+print(re_obj.match(search_string))
