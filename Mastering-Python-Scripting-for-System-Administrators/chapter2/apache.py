@@ -1,6 +1,6 @@
+#!/usr/bin/env python
 from io import StringIO
 import re
-
 
 vhost_start = re.compile(r'<VirtualHost\s+(.*?)>')
 vhost_end = re.compile(r'</VitualHost')
@@ -35,4 +35,3 @@ if __name__ == '__main__':
     conf_string = open(conf_file).read()
     for line in replace_docroot(conf_string, vhost, docroot):
         print(line)
-
