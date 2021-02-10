@@ -2,17 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98578a37-2af6-46b5-81bc-eb833e13b918" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/guessTheNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/helloFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/questions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/questions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/sameName2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/sameName3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/zeroDivide.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/automatetheboringstuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automatetheboringstuff.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6hours/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6hours/practic_directory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6hours/practice_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/allMyCats1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/allMyCats2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/magic8Ball2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/function_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/emojis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/find_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/find_nearest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/function_age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/remove_repeats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/xyswap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/class/class_person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/class/converters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/class/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/class/points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/class/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +46,14 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,8 +67,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practice">
-    <configuration name="guessTheNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.practic_directory">
+    <configuration name="class_person" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="automatetheboringstuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/guessTheNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/class_person.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="converters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="automatetheboringstuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/converters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sameName2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="automatetheboringstuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/sameName2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sameName3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practic_directory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="automatetheboringstuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6hours" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/sameName3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6hours/practic_directory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zeroDivide" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice_random" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="automatetheboringstuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6hours" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/zeroDivide.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6hours/practice_random.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.practice" />
-        <item itemvalue="Python.guessTheNumber" />
-        <item itemvalue="Python.zeroDivide" />
-        <item itemvalue="Python.sameName3" />
-        <item itemvalue="Python.sameName2" />
+        <item itemvalue="Python.practic_directory" />
+        <item itemvalue="Python.practice_random" />
+        <item itemvalue="Python.converters" />
+        <item itemvalue="Python.inheritance" />
+        <item itemvalue="Python.class_person" />
       </list>
     </recent_temporary>
   </component>
@@ -186,10 +201,28 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Section7/dictionary.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Section7/find_nearest.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
