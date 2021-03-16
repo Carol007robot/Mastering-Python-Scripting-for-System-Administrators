@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98578a37-2af6-46b5-81bc-eb833e13b918" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6hours/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6hours/practic_directory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6hours/practice_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/allMyCats1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/allMyCats2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/magic8Ball2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/function_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/emojis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/find_max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/find_nearest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/function_age.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/remove_repeats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/xyswap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/class/class_person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/class/converters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/class/inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/class/points.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/class/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6hours/machine_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6hours/practice_excel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section7/emojis.py" beforeDir="false" afterPath="$PROJECT_DIR$/6hours/emojis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section7/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/6hours/tuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +36,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6hours" />
       <recent name="$PROJECT_DIR$/venv" />
     </key>
   </component>
